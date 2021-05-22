@@ -1,0 +1,139 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "Patel",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 4,
+      "firstName": "64646",
+      "lastName": "Patel",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "firstName": "49497",
+      "lastName": "Patel",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 6,
+      "firstName": "64646",
+      "lastName": "Patel",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 7,
+      "firstName": "64646",
+      "lastName": "7272511586",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 8,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "499"
+    },
+    {
+      "id": 9,
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test",
+      "mobile": "test",
+      "salary": "1654"
+    },
+    {
+      "id": 10,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "64646"
+    },
+    {
+      "id": 11,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "badalrpatel@hotmail.com",
+      "mobile": "17272511586",
+      "salary": "9797897979"
+    },
+    {
+      "id": 12,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "49497"
+    },
+    {
+      "id": 13,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "499"
+    },
+    {
+      "id": 14,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "49497"
+    },
+    {
+      "id": 15,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "49497"
+    },
+    {
+      "id": 16,
+      "firstName": "Badal",
+      "lastName": "Patel",
+      "email": "pateba06@gmail.com",
+      "mobile": "7272511586",
+      "salary": "49497"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
