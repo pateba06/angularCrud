@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 // Essential for - Reactive Forms
 import { FormBuilder, FormGroup } from '@angular/forms'
-import { CrudserviceService } from 'src/app/shared/service/crudservice.service';
+import { CrudserviceService } from '../crudservice.service';
+
 // imported Employeemodel
 import { EmployeeModel } from './employee-dashboard.model';
 
@@ -34,6 +35,7 @@ export class EmployeeDashboardComponent implements OnInit {
 
     // So when our application run it will call this method. Get method in service > subscribing in method and then calling it here
     this.getAllEmployee();
+    console.log("lazy Loading crud")
   }
 
   /*
